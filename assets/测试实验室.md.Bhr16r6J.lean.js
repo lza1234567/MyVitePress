@@ -1,0 +1,1 @@
+import{_ as e,o as r,c as t,a6 as n}from"./chunks/framework.DsVcRfzp.js";const m=JSON.parse('{"title":"实验室","description":"","frontmatter":{},"headers":[],"relativePath":"测试实验室.md","filePath":"测试实验室.md"}'),i={name:"测试实验室.md"};function o(_,a,l,s,d,h){return r(),t("div",null,[...a[0]||(a[0]=[n("",5)])])}const p=e(i,[["render",o]]);export{m as __pageData,p as default};
