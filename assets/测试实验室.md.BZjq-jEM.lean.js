@@ -1,1 +1,0 @@
-import{_ as e,o as r,c as t,a6 as n}from"./chunks/framework.oAYsywRP.js";const f=JSON.parse('{"title":"实验室","description":"","frontmatter":{},"headers":[],"relativePath":"测试实验室.md","filePath":"测试实验室.md"}'),s={name:"测试实验室.md"};function d(i,a,o,_,l,h){return r(),t("div",null,[...a[0]||(a[0]=[n("",5)])])}const m=e(s,[["render",d]]);export{f as __pageData,m as default};
