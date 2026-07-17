@@ -1,0 +1,1 @@
+import{_ as a,o as t,c as r,a6 as o}from"./chunks/framework.C1lYeS_4.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"C井/demo/经验.md","filePath":"C井/demo/经验.md"}'),_={name:"C井/demo/经验.md"};function s(n,e,l,m,p,c){return t(),r("div",null,[...e[0]||(e[0]=[o("",2)])])}const h=a(_,[["render",s]]);export{f as __pageData,h as default};
