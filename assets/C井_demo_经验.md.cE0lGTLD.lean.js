@@ -1,0 +1,1 @@
+import{_ as t,o as a,c as r,a6 as o}from"./chunks/framework.BTKp5DX4.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"C井/demo/经验.md","filePath":"C井/demo/经验.md"}'),_={name:"C井/demo/经验.md"};function s(m,e,p,n,d,l){return a(),r("div",null,[...e[0]||(e[0]=[o("",1)])])}const h=t(_,[["render",s]]);export{f as __pageData,h as default};
