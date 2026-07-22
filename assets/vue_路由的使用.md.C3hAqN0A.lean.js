@@ -1,0 +1,1 @@
+import{_ as i,o as a,c as t,a6 as e}from"./chunks/framework.CRzfyYTh.js";const E=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"vue/路由的使用.md","filePath":"vue/路由的使用.md"}'),h={name:"vue/路由的使用.md"};function n(l,s,k,p,o,r){return a(),t("div",null,[...s[0]||(s[0]=[e("",10)])])}const g=i(h,[["render",n]]);export{E as __pageData,g as default};
