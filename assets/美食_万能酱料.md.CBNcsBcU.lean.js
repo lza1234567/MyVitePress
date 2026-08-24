@@ -1,0 +1,1 @@
+import{_ as i,o as a,c as e,a6 as t}from"./chunks/framework.CRzfyYTh.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"美食/万能酱料.md","filePath":"美食/万能酱料.md"}'),r={name:"美食/万能酱料.md"};function o(_,l,n,s,d,h){return a(),e("div",null,[...l[0]||(l[0]=[t("",7)])])}const f=i(r,[["render",o]]);export{p as __pageData,f as default};
